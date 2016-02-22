@@ -4,3 +4,7 @@ Barry Allen
 Hal Jordan
 Diana Prince
 J'onn J'onzz
+Arthur Curry
+Oliver Queen
+Ray Palmer
+Carter Hall
